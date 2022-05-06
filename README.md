@@ -33,17 +33,14 @@
 ![Screenshot_20220505-221249_Termux](https://user-images.githubusercontent.com/81049859/167062962-260ec1a2-d278-4193-a2d3-3e5f720ebe38.png)
 
 
-
-- SuperRemake de :
-- [Predator-Theme](https://github.com/tony23x/Predator-Theme) by Tony23x
-
-## PredatorCj7 :
-* Personaliza **Termux** con shell ZSH.
+## SimplyTheBestCj7 :
+* Personaliza **Termux** con la **poderosa** shell ZSH.
 * **Autocompletado** de comandos.
-* **Teclas, traductor y comandos** extras integrados.
+* **Teclas, traductor, atajos y comandos** extras integrados.
 * Entrar a un **directorio** con solo escribir su nombre.
+* Modifica las **fuentes** de tu terminal al igual que los **colores** a tu antojo.
 * Se usuario root (FakeRoot).
-* ...y mucho más!!!
+* ...y mucho muuuuuuuucho más!!!
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -57,15 +54,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt update && apt upgrade -y `
 
-* ` git clone https://github.com/Juliocj7/PredatorCj7 `
+* ` git clone https://github.com/Juliocj7/SimplyTheBestCj7 `
 
-* ` cd PredatorCj7 `
+* ` cd SimplyTheBestCj7 `
 
 * ` chmod +x * `
 
-* ` ./Instalador `
-
-* ` ./PredatorCj7 `
+* ` ./SimplyTheBestCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
