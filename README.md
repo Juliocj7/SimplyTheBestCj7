@@ -29,8 +29,10 @@
 ## Termux Personalizado :
 ![Screenshot_20220505-231747_Termux](https://user-images.githubusercontent.com/81049859/167062919-5b384bdb-95d0-422b-b5c8-a0a9d2670fd4.png)
 ![Screenshot_20220506-003702_Termux](https://user-images.githubusercontent.com/81049859/167068007-3afa6ef6-7e1b-4373-b147-eaf0dab9d6d7.png)
-![Screenshot_20220505-222019_Termux](https://user-images.githubusercontent.com/81049859/167062954-b217e044-3a2b-4e0b-9e41-518cdbc5d110.png)
-![Screenshot_20220505-221249_Termux](https://user-images.githubusercontent.com/81049859/167062962-260ec1a2-d278-4193-a2d3-3e5f720ebe38.png)
+![Screenshot_20220506-090158_Termux](https://user-images.githubusercontent.com/81049859/167137024-458e6b22-73eb-4d37-b6a7-472f3619a447.png)
+![Screenshot_20220506-090326_Termux](https://user-images.githubusercontent.com/81049859/167137043-582b97c3-9f11-494c-97f0-50b80334e82f.png)
+
+
 
 
 ## SimplyTheBestCj7 :
