@@ -55,9 +55,8 @@ https://github.com/Juliocj7/UtilsCj7
 ~~~
 
 ```bash
-yes|pkg update && pkg upgrade
+ * yes|pkg update && pkg upgrade
 ```
----
 * ` git clone https://github.com/Juliocj7/SimplyTheBestCj7 `
 
 * ` cd SimplyTheBestCj7 `
