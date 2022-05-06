@@ -24,11 +24,14 @@
 
 
 ## Menú Principal :
-![Screenshot_20220428-202246_Termux](https://user-images.githubusercontent.com/81049859/165867864-7aaf20ee-32dc-400f-8dd3-c4c46e4c6f50.png)
-
+![Screenshot_20220505-231415_Termux](https://user-images.githubusercontent.com/81049859/167062896-ce276431-413d-4c26-b591-f2706c7e83a3.png)
 
 ## Termux Personalizado :
-![Screenshot_20220428-202823_Termux](https://user-images.githubusercontent.com/81049859/165868330-c9b50856-2f47-4268-bc39-bb5d330dc524.png)
+![Screenshot_20220505-231747_Termux](https://user-images.githubusercontent.com/81049859/167062919-5b384bdb-95d0-422b-b5c8-a0a9d2670fd4.png)
+![Screenshot_20220505-230631_Termux](https://user-images.githubusercontent.com/81049859/167062944-87ab2aa8-e8ce-4e25-90ce-7649436b7497.png)
+![Screenshot_20220505-222019_Termux](https://user-images.githubusercontent.com/81049859/167062954-b217e044-3a2b-4e0b-9e41-518cdbc5d110.png)
+![Screenshot_20220505-221249_Termux](https://user-images.githubusercontent.com/81049859/167062962-260ec1a2-d278-4193-a2d3-3e5f720ebe38.png)
+
 
 
 - SuperRemake de :
