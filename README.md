@@ -32,9 +32,6 @@
 ![Screenshot_20220506-090158_Termux](https://user-images.githubusercontent.com/81049859/167137024-458e6b22-73eb-4d37-b6a7-472f3619a447.png)
 ![Screenshot_20220506-090326_Termux](https://user-images.githubusercontent.com/81049859/167137043-582b97c3-9f11-494c-97f0-50b80334e82f.png)
 
-
-
-
 ## SimplyTheBestCj7 :
 * Personaliza **Termux** con la **poderosa** shell ZSH.
 * **Autocompletado** de comandos.
